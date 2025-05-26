@@ -1,0 +1,1 @@
+# In this folder all data was generated for the WiP-Paper "Sequential electrical loadprofile forecasting in  manufacturing processes" by Jannis Eckhoff
