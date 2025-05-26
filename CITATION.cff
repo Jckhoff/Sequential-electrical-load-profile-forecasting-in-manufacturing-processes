@@ -4,7 +4,7 @@
 cff-version: 1.2.0
 title: Primary energy data from BambuLab P1S
 message: >-
-  Primary energy data from BambuLab P1S. Measured with
+  Primary energy data from BambuLab P1S. Measured with  
   Shelly PM Mini Gen 3 (0.1 Hz, via Shelly PM's REST API).
 type: dataset
 authors:
@@ -12,3 +12,6 @@ authors:
     family-names: Eckhoff
     email: jannis.eckhoff@hsu-hh.de
     orcid: 'https://orcid.org/0009-0008-3428-2866'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15515801
